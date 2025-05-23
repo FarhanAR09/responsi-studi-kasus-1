@@ -1,9 +1,9 @@
 # Responsi Senior Project - Studi Kasus 1
 
-Nama : [NAMA]  
-NIU : [NIU]  
-Sesi : [SESI]  
-Secret String : [SECRET_STRING]
+Nama : Farhan Arief Ramadhan  
+NIU : 497297  
+Sesi : B1
+Secret String : 5dbc510638bd0b8307bbb8bfa98d56ef832a2d41eb9f09bc0977f184a422cd5d20250523005939
 
 ## Checklist Responsi
 
